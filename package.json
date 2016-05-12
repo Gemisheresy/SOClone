@@ -1,0 +1,16 @@
+{
+  "name": "stackoverflowclone",
+  "version": "1.0.0",
+  "description": "Clone of Stack Overflow",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gemisprogramming",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.14",
+    "q": "^1.4.1"
+  }
+}
